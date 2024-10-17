@@ -12,7 +12,7 @@ h1 {
     border-color: #00ff55;
     border-radius: 25px;
     padding: 10px 10px 10px 10px;
-    margin: 20px 50px;
+    margin: 20px 250px;
 }
 h2 {
     color: #00ff55;
@@ -24,22 +24,22 @@ h3 {
 }
 p {
     color: #193322;
-    font-family: "Courier New", "Courier", monospace;
+    font-family: "Garamond", serif;
 }
 
 a:link {
     color: #fc00ff;
-    font-family: "Courier New", "Courier", monospace;
+    font-family: "Garamond", serif;
 }
 a:visited {
     color: #dc00df;
-    font-family: "Courier New", "Courier", monospace;
+    font-family: "Garamond", serif;
 }
 a:hover{
     color: #ff33ff;
-    font-family: "Courier New", "Courier", monospace;
+    font-family: "Garamond", serif;
 }
 a:active{
     color: #ff69ff;
-    font-family: "Courier New", "Courier", monospace;
+    font-family: "Garamond", serif;
 }
