@@ -1,14 +1,18 @@
 body {
-    background-color: #010101;
+    background-color: #ffffa7;
 }
 h1 {
     color: #00ff55;
     font-family: "Garamond", serif;
     text-align: center;
     height: 100px;
+    border-style: solid;
+    border-width: 2px 4px 4px 2px;
+    border-color: #00ff55;
+    border-radius: 10px;
 }
 h2 {
-    color: #00ff55;
+    color: #c0ff22;
     font-family: "Garamond", serif;
 }
 h3 {
@@ -16,7 +20,7 @@ h3 {
     font-family: "Garamond", serif;
 }
 p {
-    color: #c0ff22;
+    color: #193322;
     font-family: "Courier New", "Courier", monospace;
 }
 
