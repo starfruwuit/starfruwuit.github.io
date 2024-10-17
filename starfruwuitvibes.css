@@ -3,6 +3,8 @@ body {
 }
 h1 {
     color: #ffffff;
+    text-align: center;
+    font-family: "Garamond", serif;
 }
 h2 {
     color: #ffffff;
@@ -13,4 +15,5 @@ h3 {
 
 p {
     color: #ffffff;
+    font-family: "Courier New", "Courier", monospace;
 }
