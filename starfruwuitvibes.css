@@ -50,5 +50,6 @@ ol {
     padding: 20px;
     border-style: dashed;
     border-width: 2px;
-
+    border-radius: 20px;
+    border-color: #c0ff00;
 }
