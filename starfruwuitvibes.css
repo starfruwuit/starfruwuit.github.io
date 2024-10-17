@@ -30,18 +30,26 @@ p {
 a:link {
     color: #fc00ff;
     font-family: "Garamond", serif;
+    background-color: #dbd1b8;
+    border-radius: 20px;
 }
 a:visited {
     color: #dc00df;
     font-family: "Garamond", serif;
+    background-color: #dbd1b8;
+    border-radius: 20px;
 }
 a:hover{
     color: #ff33ff;
     font-family: "Garamond", serif;
+    background-color: #dbd1b8;
+    border-radius: 20px;
 }
 a:active{
     color: #ff69ff;
     font-family: "Garamond", serif;
+    background-color: #dbd1b8;
+    border-radius: 20px;
 }
 li {
     color: #193322;
