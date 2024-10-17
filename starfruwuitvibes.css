@@ -5,7 +5,7 @@ h1 {
     color: #00ff55;
     font-family: "Garamond", serif;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
     border-style: solid;
     border-width: 4px 8px 8px 4px;
@@ -30,28 +30,32 @@ p {
 a:link {
     color: #fc00ff;
     font-family: "Garamond", serif;
-    background-color: #dbd1b8;
+    background-color: #fff9ed;
+    border-width: 1px 4px 4px 1px;
     border-radius: 20px;
 }
 a:visited {
     color: #dc00df;
     font-family: "Garamond", serif;
-    background-color: #dbd1b8;
+    background-color: #fff9ed;
+    border-width: 1px 4px 4px 1px;
     border-radius: 20px;
 }
 a:hover{
     color: #ff33ff;
     font-family: "Garamond", serif;
-    background-color: #dbd1b8;
+    background-color: #fff9ed;
+    border-width: 1px 1px 1px 1px;
     border-radius: 20px;
 }
 a:active{
     color: #ff69ff;
     font-family: "Garamond", serif;
-    background-color: #dbd1b8;
+    background-color: #fff9ed;
+    border-width: 1px 1px 1px 1px;
     border-radius: 20px;
 }
-ol {
+ol li {
     color: #fc00ff;
     background: #c0ff00;
     font-family: "Garamond", serif;
