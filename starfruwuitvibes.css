@@ -5,6 +5,7 @@ h1 {
     color: #00ff55;
     font-family: "Garamond", serif;
     text-align: center;
+    height: 100px;
 }
 h2 {
     color: #00ff55;
@@ -15,7 +16,7 @@ h3 {
     font-family: "Garamond", serif;
 }
 p {
-    color: #002216;
+    color: #c0ff22;
     font-family: "Courier New", "Courier", monospace;
 }
 
