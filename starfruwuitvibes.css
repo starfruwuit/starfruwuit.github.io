@@ -13,6 +13,7 @@ h1 {
     border-radius: 30px;
     padding: 10px 10px 10px 10px;
     margin: 20px 250px;
+    text-shadow: 2px 2px #c0ff00;
 }
 h2 {
     color: #00ff55;
@@ -33,6 +34,8 @@ a:link {
     background-color: #fff9ed;
     border-width: 1px 4px 4px 1px;
     border-radius: 20px;
+    text-decoration: none;
+    padding: 5px 5px 5px 5px;
 }
 a:visited {
     color: #dc00df;
@@ -40,6 +43,8 @@ a:visited {
     background-color: #fff9ed;
     border-width: 1px 4px 4px 1px;
     border-radius: 20px;
+    text-decoration: none;
+    padding: 5px 5px 5px 5px;
 }
 a:hover{
     color: #ff33ff;
@@ -47,6 +52,8 @@ a:hover{
     background-color: #fff9ed;
     border-width: 1px 1px 1px 1px;
     border-radius: 20px;
+    text-decoration: none;
+    padding: 5px 5px 5px 5px;
 }
 a:active{
     color: #ff69ff;
@@ -54,6 +61,8 @@ a:active{
     background-color: #fff9ed;
     border-width: 1px 1px 1px 1px;
     border-radius: 20px;
+    text-decoration: none;
+    padding: 5px 5px 5px 5px;
 }
 ol li {
     color: #fc00ff;
