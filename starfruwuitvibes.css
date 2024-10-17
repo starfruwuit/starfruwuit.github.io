@@ -1,5 +1,5 @@
 body {
-    background-color: #ff00ff;
+    background-color: #fc00ff;
 }
 h1 {
     color: #ffffff;
@@ -12,8 +12,20 @@ h2 {
 h3 {
     color: #ffffff;
 }
-
 p {
     color: #ffffff;
     font-family: "Courier New", "Courier", monospace;
+}
+
+a:link {
+    color: #04ff00;
+}
+a:visited {
+
+}
+a:hover{
+
+}
+a:active{
+    
 }
