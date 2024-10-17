@@ -1,24 +1,26 @@
 body {
-    background-color: #fc00ff;
+    background-color: #c0ff00;
 }
 h1 {
-    color: #ffffff;
+    color: #00ff55;
     font-family: "Garamond", serif;
     text-align: center;
 }
 h2 {
-    color: #ffffff;
+    color: #00ff55;
+    font-family: "Garamond", serif;
 }
 h3 {
-    color: #ffffff;
+    color: #00ff55;
+    font-family: "Garamond", serif;
 }
 p {
-    color: #ffffff;
+    color: #002216;
     font-family: "Courier New", "Courier", monospace;
 }
 
 a:link {
-    color: #04ff00;
+    color: #fc00ff;
 }
 a:visited {
 
@@ -27,5 +29,5 @@ a:hover{
 
 }
 a:active{
-    
+
 }
