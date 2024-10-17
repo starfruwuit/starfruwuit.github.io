@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffa7;
+    background-color: #fff3d7;
 }
 h1 {
     color: #00ff55;
@@ -10,8 +10,9 @@ h1 {
     border-style: solid;
     border-width: 2px 4px 4px 2px;
     border-color: #00ff55;
-    border-radius: 20px;
+    border-radius: 25px;
     padding: 10px 10px 10px 10px;
+    margin: 20px 50px;
 }
 h2 {
     color: #00ff55;
@@ -28,13 +29,17 @@ p {
 
 a:link {
     color: #fc00ff;
+    font-family: "Courier New", "Courier", monospace;
 }
 a:visited {
-
+    color: #dc00df;
+    font-family: "Courier New", "Courier", monospace;
 }
 a:hover{
-
+    color: #ff33ff;
+    font-family: "Courier New", "Courier", monospace;
 }
 a:active{
-
+    color: #ff69ff;
+    font-family: "Courier New", "Courier", monospace;
 }
