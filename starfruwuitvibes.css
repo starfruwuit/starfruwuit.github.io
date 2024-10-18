@@ -27,12 +27,15 @@ h3 {
 }
 p {
     color: #0a0101;
-    font-family: "Garamond", serif;
+    font-family: "Courier New", "Courier", monospace;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 5px 20px 5px 20px;
 }
 
 a:link {
     color: #fff9ed;
-    font-family: "Garamond", serif;
+    font-family: "Courier New", "Courier", monospace;
     background-color: #fc00ff;
     border-width: 1px 4px 4px 1px;
     border-radius: 10px;
@@ -77,9 +80,5 @@ a:active{
 ol li {
     color: #0a0101;
     font-family: "Garamond", serif;
-    padding: 30px;
-    border-style: dashed;
-    border-width: 2px;
-    border-radius: 10px;
-    border-color: #00ff55;
+    padding-left: 30px;
 }
