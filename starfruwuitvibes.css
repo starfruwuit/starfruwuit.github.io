@@ -1,5 +1,5 @@
 body {
-    background-color: #e8e6e4;
+    background-color: #f0e1d4;
 }
 h1 {
     color: #0a0101;
@@ -14,7 +14,7 @@ h1 {
     padding: 10px 10px 10px 10px;
     margin: 20px 250px;
     text-shadow: 2px 2px #fc00ff;
-    background-color: #fcd40d;
+    background-color: #c0ff22;
 }
 h2 {
     color: #0a0101;
@@ -31,52 +31,55 @@ p {
 }
 
 a:link {
-    color: #fc00ff;
+    color: #fff9ed;
     font-family: "Garamond", serif;
-    background-color: #fff9ed;
+    background-color: #fc00ff;
     border-width: 1px 4px 4px 1px;
-    border-radius: 20px;
+    border-radius: 10px;
     border-color: #0a0101;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
+    margin: 10px;
 }
 a:visited {
-    color: #dc00df;
+    color: #fff9ed;
     font-family: "Garamond", serif;
-    background-color: #fff9ed;
+    background-color: #dc00df;
     border-width: 1px 4px 4px 1px;
-    border-radius: 20px;
+    border-radius: 10px;
     border-color: #0a0101;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
+    margin: 10px;
 }
 a:hover{
-    color: #ff33ff;
+    color: #fff9ed;
     font-family: "Garamond", serif;
-    background-color: #fff9ed;
+    background-color: #ff33ff;
     border-width: 1px 1px 1px 1px;
-    border-radius: 20px;
+    border-radius: 10px;
     border-color: #0a0101;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
+    margin: 10px;
 }
 a:active{
-    color: #ff69ff;
+    color: #fff9ed;
     font-family: "Garamond", serif;
-    background-color: #fff9ed;
+    background-color: #ff69ff;
     border-width: 1px 1px 1px 1px;
-    border-radius: 20px;
+    border-radius: 10px;
     border-color: #0a0101;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
+    margin: 10px;
 }
 ol li {
     color: #0a0101;
-    background: #fff9ed;
     font-family: "Garamond", serif;
-    padding: 20px;
+    padding: 30px;
     border-style: dashed;
     border-width: 2px;
-    border-radius: 20px;
+    border-radius: 10px;
     border-color: #00ff55;
 }
