@@ -48,7 +48,6 @@ a:link {
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
-    background-color: #fc00ff;
 }
 a:visited {
     color: #fff9ed;
@@ -61,7 +60,6 @@ a:visited {
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
-    background-color: #dc00df;
 }
 a:hover{
     color: #fff9ed;
@@ -74,7 +72,6 @@ a:hover{
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
-    background-color: #ff33ff;
 }
 a:active{
     color: #fff9ed;
@@ -87,7 +84,6 @@ a:active{
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
-    background-color: #ff69ff;
 }
 ol li {
     color: #0a0101;
