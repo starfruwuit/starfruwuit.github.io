@@ -61,6 +61,11 @@ a:visited {
     padding: 5px 5px 5px 5px;
     margin: 10px;
 }
+@keyframes shift {
+    from {border-color: #0a0101;}
+    50% {border-color: aliceblue;}
+    to {border-color: #0a0101;}
+}
 a:hover{
     color: #fff9ed;
     border-color: #0a0101;
@@ -72,6 +77,8 @@ a:hover{
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
+    animation-name: shift;
+    animation-duration: 5s;
 }
 a:active{
     color: #fff9ed;
