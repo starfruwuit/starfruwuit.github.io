@@ -31,7 +31,7 @@ h3 {
 }
 p {
     color: #0a0101;
-    font-family: "Garamond", serif;
+    font-family: "Lora", serif;
     font-size: 16px;
     font-weight: normal;
     margin: 5px 20px 5px 20px;
@@ -39,7 +39,7 @@ p {
 
 a:link {
     color: #fff9ed;
-    font-family: "Garamond", serif;
+    font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
     border-width: 1px 4px 4px 1px;
@@ -52,33 +52,33 @@ a:link {
 }
 a:visited {
     color: #fff9ed;
-    font-family: "Garamond", serif;
+    font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
-    background-color: #dc00df;
     border-width: 1px 4px 4px 1px;
     border-radius: 10px;
     border-color: #0a0101;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
+    background-color: #dc00df;
 }
 a:hover{
     color: #fff9ed;
-    font-family: "Garamond", serif;
+    font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
-    background-color: #ff33ff;
     border-width: 1px 1px 1px 1px;
     border-radius: 10px;
     border-color: #0a0101;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
+    background-color: #ff33ff;
 }
 a:active{
     color: #fff9ed;
-    font-family: "Garamond", serif;
+    font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
     border-width: 1px 1px 1px 1px;
@@ -91,7 +91,7 @@ a:active{
 }
 ol li {
     color: #0a0101;
-    font-family: "Garamond", serif;
+    font-family: "Lora", serif;
     padding-left: 30px;
     font-size: 16px;
 }
