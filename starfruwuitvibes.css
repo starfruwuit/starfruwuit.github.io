@@ -39,48 +39,48 @@ p {
 
 a:link {
     color: #fff9ed;
+    border-color: #0a0101;
     font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
     border-width: 1px 4px 4px 1px;
     border-radius: 10px;
-    border-color: #0a0101;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
 }
 a:visited {
     color: #fff9ed;
+    border-color: #0a0101;
     font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
     border-width: 1px 4px 4px 1px;
     border-radius: 10px;
-    border-color: #0a0101;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
 }
 a:hover{
     color: #fff9ed;
+    border-color: #0a0101;
     font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
     border-width: 1px 1px 1px 1px;
     border-radius: 10px;
-    border-color: #0a0101;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
 }
 a:active{
     color: #fff9ed;
+    border-color: #0a0101;
     font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
     border-width: 1px 1px 1px 1px;
     border-radius: 10px;
-    border-color: #0a0101;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     margin: 10px;
