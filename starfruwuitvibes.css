@@ -3,6 +3,10 @@
     --background: #fff8ff;
     --offBlack: #0a0101;
     --electricOurple: #fc00ff;
+    --LelectricOurple: #fc99ff;
+    --limeGreen: #c0ff22;
+    --slimeGreen: #00ff55;
+    --offWhite: #fff9ed;
 }
 
 body {
@@ -21,23 +25,23 @@ h1 {
     padding: 10px 10px 10px 10px;
     margin: 20px 250px;
     text-shadow: 2px 2px var(--electricOurple);
-    background-color: #c0ff22;
+    background-color: var(--limeGreen);
 }
 h2 {
-    color: #0a0101;
+    color: var(--offBlack);
     font-family: "Garamond", serif;
     font-size: 20px;
     text-align: center;
 }
 h3 {
-    color: #00ff55;
+    color: var(--slimeGreen);
     font-family: "Garamond", serif;
     font-size: 18px;
     text-align: left;
 
 }
 p {
-    color: #0a0101;
+    color: var(--offBlack);
     font-family: "Lora", serif;
     font-size: 16px;
     font-weight: normal;
@@ -45,8 +49,8 @@ p {
 }
 
 a:link {
-    color: #fff9ed;
-    border-color: #0a0101;
+    color: var(--electricOurple);
+    border-color: var(--offBlack);
     font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
@@ -57,8 +61,8 @@ a:link {
     margin: 10px;
 }
 a:visited {
-    color: #fff9ed;
-    border-color: #0a0101;
+    color: var(--electricOurple);
+    border-color: var(--offBlack);
     font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
@@ -74,8 +78,8 @@ a:visited {
     to {border-color: #0a0101;}
 }
 a:hover{
-    color: #fff9ed;
-    border-color: #0a0101;
+    color: var(--electricOurple);
+    border-color: var(--offBlack);
     font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
@@ -88,8 +92,8 @@ a:hover{
     animation-duration: 5s;
 }
 a:active{
-    color: #fff9ed;
-    border-color: #0a0101;
+    color: var(--LelectricOurple);
+    border-color: var(--offBlack);
     font-family: "Lora", serif;
     font-size: 16px;
     font-weight: bold;
@@ -100,7 +104,7 @@ a:active{
     margin: 10px;
 }
 ol li {
-    color: #0a0101;
+    color: var(--offBlack);
     font-family: "Lora", serif;
     padding-left: 30px;
     font-size: 16px;
