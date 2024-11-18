@@ -1,19 +1,26 @@
+
+:root {
+    --background: #fff8ff;
+    --offBlack: #0a0101;
+    --electricOurple: #fc00ff;
+}
+
 body {
-    background-color: #fff8ff;
+    background-color: var(--background);
 }
 h1 {
-    color: #0a0101;
+    color: var(--offBlack);
     font-family: "Garamond", serif;
     font-weight: bold;
     font-size: 40px;
     text-align: center;
     border-style: solid;
     border-width: 4px 8px 8px 4px;
-    border-color: #0a0101;
+    border-color: var(--offBlack);
     border-radius: 30px;
     padding: 10px 10px 10px 10px;
     margin: 20px 250px;
-    text-shadow: 2px 2px #fc00ff;
+    text-shadow: 2px 2px var(--electricOurple);
     background-color: #c0ff22;
 }
 h2 {
