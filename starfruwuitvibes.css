@@ -46,16 +46,17 @@ p {
     font-size: 18px;
     font-weight: normal;
     margin: 5px 20px 5px 20px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 150px;
+    padding-right: 150px;
 
 }
 
 a:link {
     color: var(--electricOurple);
+    background-color: var(--offWhite);
     border-color: var(--offBlack);
     font-family: "Lora", serif;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
     border-width: 2px 5px 5px 2px;
     border-radius: 10px;
@@ -65,9 +66,10 @@ a:link {
 }
 a:visited {
     color: var(--electricOurple);
+    background-color: var(--offWhite);
     border-color: var(--offBlack);
     font-family: "Lora", serif;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
     border-width: 2px 5px 5px 2px;
     border-radius: 10px;
@@ -82,9 +84,10 @@ a:visited {
 }
 a:hover{
     color: var(--electricOurple);
+    background-color: var(--offWhite);
     border-color: var(--offBlack);
     font-family: "Lora", serif;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
     border-width: 2px 2px 2px 2px;
     border-radius: 10px;
@@ -96,9 +99,10 @@ a:hover{
 }
 a:active{
     color: var(--LelectricOurple);
+    background-color: var(--offWhite);
     border-color: var(--offBlack);
     font-family: "Lora", serif;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
     border-width: 2px 2px 2px 2px;
     border-radius: 10px;
@@ -109,9 +113,13 @@ a:active{
 ol li {
     color: var(--offBlack);
     font-family: "Lora", serif;
-    padding-left: 250px;
-    padding-right: 250px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    font-size: 16px;
+    margin: 250px 10px 250px 10px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    margin: auto;
+
 }
