@@ -46,14 +46,12 @@ p {
     font-size: 18px;
     font-weight: normal;
     margin: 5px 20px 5px 20px;
-    padding-left: 150px;
-    padding-right: 150px;
-
+    padding: 5px 150px 5px 150px;
 }
 
 a:link {
-    color: var(--electricOurple);
-    background-color: var(--offWhite);
+    color: var(--offWhite);
+    background-color: var(--electricOurple);
     border-style: solid;
     border-color: var(--offBlack);
     font-family: "Lora", serif;
@@ -66,8 +64,8 @@ a:link {
     margin: 10px;
 }
 a:visited {
-    color: var(--electricOurple);
-    background-color: var(--offWhite);
+    color: var(--offWhite);
+    background-color: var(--electricOurple);
     border-style: solid;
     border-color: var(--offBlack);
     font-family: "Lora", serif;
@@ -85,8 +83,8 @@ a:visited {
     to {border-color: #0a0101;}
 }
 a:hover{
-    color: var(--electricOurple);
-    background-color: var(--offWhite);
+    color: var(--offWhite);
+    background-color: var(--electricOurple);
     border-style: solid;
     border-color: var(--offBlack);
     font-family: "Lora", serif;
@@ -101,8 +99,8 @@ a:hover{
     animation-duration: 5s;
 }
 a:active{
-    color: var(--LelectricOurple);
-    background-color: var(--offWhite);
+    color: var(--offWhite);
+    background-color: var(--LelectricOurple);
     border-style: solid;
     border-color: var(--offBlack);
     font-family: "Lora", serif;
