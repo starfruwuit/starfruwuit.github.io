@@ -94,7 +94,7 @@ a:hover{
     border-radius: 10px;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
-    margin: 10px;
+    margin: 10px 13px 13px 10px;
     animation-name: shift;
     animation-duration: 5s;
 }
@@ -110,7 +110,7 @@ a:active{
     border-radius: 10px;
     text-decoration: none;
     padding: 5px 5px 5px 5px;
-    margin: 10px;
+    margin: 10px 13px 13px 10px;
 }
 ol li {
     color: var(--offBlack);
@@ -123,5 +123,4 @@ ol li {
 img {
     display: block;
     margin: auto;
-
 }
