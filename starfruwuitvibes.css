@@ -124,3 +124,8 @@ img {
     display: block;
     margin: auto;
 }
+
+a.textlink {
+    color: var(--electricOurple);
+    text-decoration-line: underline;
+}
