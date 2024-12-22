@@ -59,7 +59,7 @@ p {
     padding: 5px 150px 5px 150px;
 }
 
-a:link {
+.a2:link {
     color: var(--offWhite);
     background-color: var(--electricOurple);
     border-style: solid;
@@ -73,7 +73,7 @@ a:link {
     padding: 5px 5px 5px 5px;
     margin: 10px;
 }
-a:visited {
+.a2:visited {
     color: var(--offWhite);
     background-color: var(--electricOurple);
     border-style: solid;
@@ -92,7 +92,7 @@ a:visited {
     50% {border-color: aliceblue;}
     to {border-color: #0a0101;}
 }
-a:hover{
+.a2:hover{
     color: var(--offWhite);
     background-color: var(--electricOurple);
     border-style: solid;
@@ -108,7 +108,7 @@ a:hover{
     animation-name: shift;
     animation-duration: 5s;
 }
-a:active{
+.a2:active{
     color: var(--offWhite);
     background-color: var(--LelectricOurple);
     border-style: solid;
