@@ -9,6 +9,14 @@
     --offWhite: #fff9ed;
 }
 
+.textlink {
+    color: var(--offBlack);
+    text-decoration-line: underline;
+    border-style: none;
+    font-size: 18px;
+    font-weight: normal;
+}
+
 body {
     background-color: var(--background);
 }
@@ -23,7 +31,7 @@ h1 {
     border-color: var(--offBlack);
     border-radius: 30px;
     padding: 10px 10px 10px 10px;
-    margin: 20px 400px 20px 400px;
+    margin: 20px 250px 20px 250px;
     text-shadow: 2px 2px var(--electricOurple);
     background-color: var(--limeGreen);
 }
@@ -125,12 +133,4 @@ ol li {
 img {
     display: block;
     margin: auto;
-}
-
-.textlink {
-    color: var(--offBlack);
-    text-decoration-line: underline;
-    border-style: none;
-    font-size: 18px;
-    font-weight: normal;
 }
