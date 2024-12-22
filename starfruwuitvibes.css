@@ -23,14 +23,17 @@ h1 {
     border-color: var(--offBlack);
     border-radius: 30px;
     padding: 10px 10px 10px 10px;
-    margin: 20px 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left:auto;
     text-shadow: 2px 2px var(--electricOurple);
     background-color: var(--limeGreen);
 }
 h2 {
     color: var(--offBlack);
     font-family: "Garamond", serif;
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
 }
 h3 {
