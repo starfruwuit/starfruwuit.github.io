@@ -1,6 +1,6 @@
 
 :root {
-    --background: #ffd8ff;
+    --background: #ffd8fc;
     --offBlack: #0a0101;
     --electricOurple: #fc00ff;
     --LelectricOurple: #fc99ff;
@@ -125,7 +125,7 @@ p {
 ol li {
     color: var(--offBlack);
     font-family: "Lora", serif;
-    margin: 10px 250px 10px 250px;
+    margin: 5px 250px 5px 250px;
     padding: 10px;
     font-size: 18px;
 }
@@ -133,4 +133,5 @@ ol li {
 img {
     display: block;
     margin: auto;
+    border-radius: 30px;
 }
