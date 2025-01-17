@@ -147,7 +147,7 @@ footer {
     color: var(--electricOurple);
 }
 
-.twoThirdsColumns {
+.twoColumns {
     margin: 5px 200px 5px 200px;
     display: grid;
     grid-template-columns: 1fr 2fr;
