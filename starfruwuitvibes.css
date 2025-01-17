@@ -140,10 +140,23 @@ div {
     margin: 5px;
 }
 
-.twoColumns {
+footer {
+    background-color: var(--offWhite);
+    font-family: "Lora", serif;
+    font-size: 18px;
+    color: var(--electricOurple);
+}
+
+.twoThirdsColumns {
     margin: 5px 200px 5px 200px;
     display: grid;
     grid-template-columns: 1fr 2fr;
+}
+
+.twoEvenColumns {
+    margin: 5px 200px 5px 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 .columnItem {
