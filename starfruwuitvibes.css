@@ -137,16 +137,16 @@ img {
 }
 
 div {
-    margin: 10px;
+    margin: 5px;
 }
 
 .twoColumns {
-    margin: 10px 150px 10px 150px;
+    margin: 5px 200px 5px 200px;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 2fr;
 }
 
 .columnItem {
     padding: 1px;
-    margin: 10px;
+    margin: 1px;
 }
