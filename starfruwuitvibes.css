@@ -13,7 +13,7 @@
     color: var(--offBlack);
     text-decoration-line: underline;
     border-style: none;
-    font-size: 18px;
+    font-size: inherit;
     font-weight: normal;
 }
 
@@ -171,4 +171,5 @@ footer {
     color: var(--offBlack);
     font-family: "Lora", serif;
     text-align: center;
+    padding: 0px;
 }
