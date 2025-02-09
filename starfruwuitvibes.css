@@ -1,6 +1,6 @@
 
 :root {
-    --background: #ffd8fc;
+    --lightOurple: #ffd8fc;
     --offBlack: #0a0101;
     --electricOurple: #fc00ff;
     --LelectricOurple: #fc99ff;
@@ -18,7 +18,7 @@
 }
 
 body {
-    background-color: var(--background);
+    background-color: var(--lightOurple);
 }
 h1 {
     color: var(--offBlack);
