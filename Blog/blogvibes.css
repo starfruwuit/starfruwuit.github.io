@@ -19,8 +19,8 @@ h1 {
     font-size: 40px;
     font-family: "Courier New", monospace;
     text-align: center;
-    margin: auto;
-    padding-top: 30px;
+    margin: 10px 300px 10px 300px;
+    padding: 10px;
     border-style: solid;
     border-width: 2px;
     border-color: var(--offBlack);
@@ -64,4 +64,26 @@ img {
     font-family: "Courier New", monospace;
     color: var(--electricOurple);
     margin: auto;
+}
+
+.linkCluster {
+    text-align: center;
+    margin: 10px;
+}
+
+.twoColumns {
+    margin: 5px 200px 5px 200px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.twoEvenColumns {
+    margin: 5px 5px 5px 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.columnItem {
+    padding: 1px;
+    margin: 1px;
 }
