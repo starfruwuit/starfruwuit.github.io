@@ -189,3 +189,9 @@ footer {
     text-align: center;
     margin: 10px;
 }
+
+.articleDate {
+    font-family: "Courier New", monospace;
+    color: var(--electricOurple);
+    margin: auto;
+}
