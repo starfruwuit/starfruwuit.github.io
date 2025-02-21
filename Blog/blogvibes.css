@@ -1,0 +1,62 @@
+:root {
+    --lightOurple: #ffd8fc;
+    --offBlack: #0a0101;
+    --electricOurple: #fc00ff;
+    --LelectricOurple: #fc99ff;
+    --limeGreen: #c0ff22;
+    --slimeGreen: #00ff55;
+    --offWhite: #fff9ed;
+    --gray: #1b1a1a;
+}
+
+body {
+    background-color: var(--offWhite);
+}
+
+h1 {
+    color: var(--offBlack);
+    font-size: 40px;
+    font-family: "Courier New", monospace;
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    color: var(--gray)
+    font-size: 24px;
+    font-family: "Courier New", monospace;
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    color: var(--gray);
+    font-size: 18px;
+    font-family: "Courier New", monospace;
+    margin: 5px 20px 5px 20px;
+    padding: 5px 150px 5px 150px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 30px;
+}
+
+.a2:link {
+    color: var(--offBlack);
+    background-color: var(--LelectricOurple);
+    border-style: solid;
+    border-color: var(--offBlack);
+    font-family: "Courier New", monospace;
+    font-size: 18px;
+    border-width: 1px 2px 2px 1px;
+    padding: 5px 5px 5px 5px;
+    margin: 10px;
+}
+
+.articleDate {
+    font-family: "Courier New", monospace;
+    color: var(--electricOurple);
+    margin: auto;
+}
