@@ -11,6 +11,7 @@
    sodipodi:docname="pronouns.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="4.3166667"
-     inkscape:cx="89.88417"
+     inkscape:cx="89.884169"
      inkscape:cy="100.19305"
      inkscape:window-width="1920"
      inkscape:window-height="991"
@@ -33,14 +34,36 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs1" />
+     id="defs1">
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#ffecff;stop-opacity:0;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient7"
+       x1="32.763919"
+       y1="88.673504"
+       x2="156.89517"
+       y2="88.673504"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
        sodipodi:type="star"
-       style="fill:#eaea6c;fill-opacity:1;fill-rule:evenodd;stroke:#ff76c5;stroke-width:1.71041;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#5c395b;stroke-width:1.71041;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="path1"
        inkscape:flatsided="false"
        sodipodi:sides="10"
@@ -55,24 +78,29 @@
        d="m 67.713071,49.523727 14.336687,5.712073 8.099598,-12.52452 9.20357,14.662207 12.281704,-4.348168 -3.41274,13.396127 15.62389,7.798433 -11.00079,10.518708 7.71461,12.356402 -14.86694,1.795474 -2.23236,14.076017 -10.969055,-7.39198 -10.099664,9.83832 -5.53334,-11.60387 -15.773329,2.819 3.412686,-13.76296 -12.489527,-6.381413 7.863073,-8.542076 -4.580247,-14.252406 13.375485,0.09522 z"
        inkscape:transform-center-x="3.347898"
        inkscape:transform-center-y="3.6367482"
-       transform="matrix(2.409701,0,0,1.6778453,-121.51823,-44.163271)" />
+       transform="matrix(2.409701,0,0,1.6778453,-121.28657,-41.615008)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:0.5;font-family:Garamond;-inkscape-font-specification:'Garamond, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0.8px;word-spacing:0.15px;text-anchor:middle;fill:#d43533;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.483;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="101.84962"
-       y="80.386101"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:0.5;font-family:'Death to Hair Metal';-inkscape-font-specification:'Death to Hair Metal, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0.8px;word-spacing:0.150001px;text-anchor:middle;fill:#ff35c6;fill-opacity:1;fill-rule:evenodd;stroke:#ffbccc;stroke-width:1.483;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="63.94899"
+       y="102.34471"
        id="text1"
-       inkscape:label="text1"><tspan
-         sodipodi:role="line"
-         id="tspan3"
-         x="101.84962"
-         y="80.386101"
-         rotate="0 0 0 0 0 0 0 0 0"
-         dy="-10">any/all </tspan><tspan
+       inkscape:label="text1"
+       transform="rotate(-15)"><tspan
          sodipodi:role="line"
          id="tspan4"
-         x="102.24962"
-         y="92.386101"
-         rotate="0 0 0 0 0 0 0 0 0 0">pronouns!</tspan></text>
+         x="63.94899"
+         y="102.34471"
+         style="stroke:#ffbccc;stroke-opacity:1">any/all </tspan><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="63.94899"
+         y="118.73821"
+         style="stroke:#ffbccc;stroke-opacity:1"></tspan><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         x="64.348991"
+         y="134.73822"
+         style="stroke:#ffbccc;stroke-opacity:1">pronouns</tspan></text>
   </g>
 </svg>
