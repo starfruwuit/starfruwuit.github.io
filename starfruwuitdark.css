@@ -10,7 +10,7 @@
 }
 @font-face {
     font-family: meqanor;
-    src: url(./MeqanorRegular-WoOKZ.otf) format("opentype");
+    src: url(MeqanorRegular-woOKZ.otf) format("opentype");
 }
 
 .textlink {
