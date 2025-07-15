@@ -10,7 +10,7 @@
 }
 @font-face {
     font-family: meqanor;
-    src: url(MeqanorRegular-WoOKZ.otf) format("opentype");
+    src: url(./MeqanorRegular-WoOKZ.otf) format("opentype");
 }
 
 .textlink {
@@ -27,7 +27,7 @@ body {
 }
 h1 {
     color: var(--offWhite);
-    font-family: "meqanor", serif;
+    font-family: "meqanor";
     font-weight: bold;
     font-size: 40px;
     text-align: center;
