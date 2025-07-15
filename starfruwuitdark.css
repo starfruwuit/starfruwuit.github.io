@@ -10,7 +10,7 @@
 }
 @font-face {
     font-family: meqanor;
-    src: url(./MeqanorRegular-WoOKZ.otf) format("opentype");
+    src: url(MeqanorRegular-WoOKZ.otf) format("opentype");
 }
 
 .textlink {
@@ -40,7 +40,7 @@ h1 {
     */
     margin: 20px 250px 20px 250px;
     text-shadow: 2px 2px var(--electricOurple);
-    background-color: var(--offWhite);
+    /*background-color: var(--offWhite);*/
 }
 h2 {
     color: var(--lightOurple);
