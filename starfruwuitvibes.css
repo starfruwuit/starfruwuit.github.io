@@ -18,7 +18,8 @@
 }
 
 body {
-    background-color: var(--lightOurple);
+    /*background-color: var(--lightOurple);*/
+    background-image: url(./purple-star-web-BG.png)
 }
 h1 {
     color: var(--offBlack);
