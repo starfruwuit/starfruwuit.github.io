@@ -9,6 +9,15 @@
     --offWhite: #fff9ed;
 }
 
+@font-face {
+    font-family: meqanor;
+    src: url(MeqanorRegular-woOKZ.otf) format("opentype");
+}
+@font-face {
+    font-family: metal-vengeance; 
+    src: url(MetalVengeanceItalic-owAdd.ttf) format("truetype")
+}
+
 .textlink {
     color: var(--offBlack);
     text-decoration-line: underline;
@@ -23,7 +32,7 @@ body {
 }
 h1 {
     color: var(--offBlack);
-    font-family: "Garamond", serif;
+    font-family: "metal-vengeance", serif;
     font-weight: bold;
     font-size: 40px;
     text-align: center;
@@ -140,6 +149,12 @@ img {
 
 div {
     margin: 5px;
+}
+
+.mainblock {
+    padding: 5px; 
+    
+
 }
 
 footer {
