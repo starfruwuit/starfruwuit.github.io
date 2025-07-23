@@ -138,6 +138,8 @@ ol li {
 img {
     display: block;
     margin: auto;
+}
+.nonwidget {
     border-radius: 30px;
 }
 
