@@ -218,3 +218,9 @@ iframe {
     border-color: var(--offBlack);
     border-radius: 10px;
 }
+
+.SOTW {
+    border-color: var(--offBlack);
+    border-width: 2px;
+    
+}
