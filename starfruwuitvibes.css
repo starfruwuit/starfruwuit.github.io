@@ -10,12 +10,8 @@
 }
 
 @font-face {
-    font-family: meqanor;
-    src: url(MeqanorRegular-woOKZ.otf) format("opentype");
-}
-@font-face {
     font-family: metal-vengeance; 
-    src: url(MetalVengeanceItalic-owAdd.ttf) format("truetype")
+    src: url(main-page-assets/MetalVengeanceItalic-owAdd.ttf) format("truetype")
 }
 
 .textlink {
@@ -28,7 +24,7 @@
 
 body {
     /*background-color: var(--lightOurple);*/
-    background-image: url(./purple-star-web-BG.png)
+    background-image: url(main-page-assets/purple-star-web-BG.png)
 }
 h1 {
     color: var(--offBlack);
