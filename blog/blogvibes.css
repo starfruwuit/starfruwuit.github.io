@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-    color: var(--gray)
+    color: var(--gray);
     font-size: 24px;
     font-family: "Courier New", monospace;
     text-align: center;
