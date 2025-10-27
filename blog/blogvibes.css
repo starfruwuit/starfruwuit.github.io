@@ -34,6 +34,19 @@ h2 {
     margin: auto;
 }
 
+h3 {
+    color: var(--gray);
+    font-size: 18px;
+    font-family: "Courier New", monospace;
+}
+
+article {
+    border-width: 1px; 
+    border-color: var(--lightOurple); 
+    border-radius: 2px;
+    margin: 5px;
+} 
+
 p {
     color: var(--gray);
     font-size: 18px;
