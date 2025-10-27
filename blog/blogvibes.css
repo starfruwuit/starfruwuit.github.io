@@ -38,6 +38,8 @@ h3 {
     color: var(--gray);
     font-size: 18px;
     font-family: "Courier New", monospace;
+    margin: 5px 20px 5px 20px;
+    padding: 5px 150px 5px 150px;
 }
 
 article {
